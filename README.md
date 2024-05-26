@@ -13,7 +13,7 @@ Using TensorFlow, we crafted a garbage classification model, transforming image 
 # Challenges we ran into
 It took very long for us to train the models under a variety of classifications. Additionally, the model we built was quite large (100mb+) and thus ran into difficulties processing it and sharing it through git and other team members. Additionally, with time constraints, it was hard to format output from the model.
 
-#Images
+# Images
    ![Model-R](screenshots/model1.png)
    ![Model-T](screenshots/model2.png)
    ![3rd Place Winners](screenshots/group-pic.png)
