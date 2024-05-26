@@ -21,6 +21,8 @@ It took very long for us to train the models under a variety of classifications.
 # What's next for GetTrash
 We hope to work on our web app more and improve our accuracy!
 
+# Link to Devpost
+https://devpost.com/software/gettrash
 # Link to Youtube Demo
 https://www.youtube.com/watch?v=VoDxWJuNdtI
 
